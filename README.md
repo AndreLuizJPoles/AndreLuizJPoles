@@ -3,10 +3,11 @@
 - 🔭 Estudo Análise de Desenvolvimento de Sistemas
 - 🌱 Estou estudando Java e Python
 - ❤️ Utlizo a linguagem C
+- 📄  Onde me encontrar: <a href="https://www.linkedin.com/in/andré-luiz-junqueira-poles-32a432245/" target="_blank">Linkedin</a>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLuizJPoles&show_icons=true&theme=dracula">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizJPoles&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizJPoles&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
