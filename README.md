@@ -13,7 +13,7 @@
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/html-original.svg" /> 
+  <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" /> 
 </div>
 
 <div style="display: inline_block" align="center"><br>
