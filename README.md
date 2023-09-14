@@ -1,7 +1,7 @@
 ### Oii! Prazer, sou André Luiz
 
 - 🔭 Estudo Análise de Desenvolvimento de Sistemas
-- 🌱 Estou estudando Java e Python
+- 🌱 Estou estudando Java, Python, HTML, CSS e JavaScript
 - ❤️ Utilizo a linguagem C
 
 <div align="center">
