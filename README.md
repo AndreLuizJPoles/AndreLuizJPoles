@@ -15,6 +15,7 @@
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img style="margin-left:10px" height="50px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 <div style="display: inline_block" align="center"><br>
