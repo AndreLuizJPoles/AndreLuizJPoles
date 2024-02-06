@@ -3,6 +3,7 @@
 - 🔭 Estudo Análise de Desenvolvimento de Sistemas
 - 🌱 Estou estudando Java, Python, HTML, CSS e JavaScript
 - ❤️ Utilizo a linguagem C
+- 💻 Trabalho como assistente de TI na Cerâmica Strufaldi
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLuizJPoles&show_icons=true&theme=dracula">
