@@ -1,8 +1,7 @@
 ### Oii! Prazer, sou André Luiz
 
-- 🔭 Estudo Análise de Desenvolvimento de Sistemas
-- 🌱 Estou estudando Java, Python, HTML, CSS e JavaScript
-- ❤️ Utilizo a linguagem C
+- 🔭 Curso Análise de Desenvolvimento de Sistemas
+- ❤️ Trabalho com Typescript, Node.js e MongoDB na AGX Software.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLuizJPoles&show_icons=true&theme=dracula">
@@ -10,11 +9,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-  <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
-  <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img style="margin-left:10px" height="50px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
-  <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
