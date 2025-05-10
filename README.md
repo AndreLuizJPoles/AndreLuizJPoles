@@ -1,6 +1,7 @@
 ### Oii! Prazer, sou André Luiz
 
-- 🔭 Curso Análise de Desenvolvimento de Sistemas
+- 🔭 Sou formado em Análise de Desenvolvimento de Sistemas.
+- ⚗️ Curso pós graduação em Ciência de Dados.
 - ❤️ Trabalho com Typescript, Node.js e MongoDB na AGX Software.
 
 <div align="center">
