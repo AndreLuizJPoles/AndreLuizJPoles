@@ -1,17 +1,19 @@
 ### Oii! Prazer, sou André Luiz
 
+- 💻 Sou Desenvolvedor Backend.
 - 🔭 Sou formado em Análise de Desenvolvimento de Sistemas.
 - ⚗️ Curso pós graduação em Ciência de Dados.
 - ❤️ Trabalho com Typescript, Node.js e MongoDB na AGX Software.
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLuizJPoles&show_icons=true&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizJPoles&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
 <div style="display: inline_block" align="center"><br>
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img style="margin-left:10px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div>
