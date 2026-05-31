@@ -19,7 +19,7 @@ const andre = {
   formação: "Análise e Desenvolvimento de Sistemas — FATEC Sorocaba",
   pós:      "Ciência de Dados (em andamento)",
   foco:     ["APIs REST", "Arquitetura Backend", "Data Science"],
-  hobbies:  ["Vídeo Games", "Código limpo", "Aprender coisas novas", "Ler 📖"],
+  hobbies:  ["Video Games", "Código limpo", "Aprender coisas novas", "Ler 📖"],
 };
 ```
 
@@ -29,7 +29,7 @@ const andre = {
 
 **AGX Software** · Sorocaba, SP
 - 🏷️ **Backend Developer Junior I** *(atual)*
-- 🔰 Estágio em Desenvolvimento0 Web *(início da jornada)*
+- 🔰 Estágio em Desenvolvimento Web *(início da jornada)*
 
 > Empresa de tecnologia focada em soluções omnichannel, UX e automação de processos.
 
@@ -65,8 +65,14 @@ const andre = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLuizJPoles&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FF2C2C&icon_color=FF2C2C"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizJPoles&layout=compact&langs_count=7&theme=radical&title_color=FF2C2C"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndreLuizJPoles&theme=radical&hide_border=true&ring=FF2C2C&fire=FF2C2C&currStreakLabel=FF2C2C)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreLuizJPoles&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreLuizJPoles&theme=moonlight)
 
 </div>
 
@@ -76,19 +82,17 @@ const andre = {
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AndreLuizJPoles&theme=radical&hide_border=true&ring=FF2C2C&fire=FF2C2C&currStreakLabel=FF2C2C)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
-## 🐍 Snake da contribuição
+## 🐍 Contribuições
 
 <div align="center">
 
-![snake gif]([https://github.com/AndreLuizJPoles/AndreLuizJPoles/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/AndreLuizJPoles/AndreLuizJPoles/output/github-contribution-grid-snake.svg))
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreLuizJPoles/AndreLuizJPoles/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreLuizJPoles/AndreLuizJPoles/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreLuizJPoles/AndreLuizJPoles/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -100,8 +104,7 @@ const andre = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andré-luiz-junqueira-poles-32a432245/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_luiz_j.poles/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreluizjunqpoles@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=andreluizjunqpoles@gmail.com)
 </div>
 
 ---
@@ -112,4 +115,4 @@ const andre = {
 
 *"What you see is what you get! Just a guy that loves adventure. I'm Sonic the Hedgehog!"* ✨
 
-</div>****
+</div>
