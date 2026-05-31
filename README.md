@@ -28,7 +28,7 @@ const andre = {
 ## 🚀 Experiência
 
 **AGX Software** · Sorocaba, SP
-- 🏷️ **Backend Developer Junior I** *(atual)*
+- 🏷️ **Backend Developer Junior II** *(atual)*
 - 🔰 Estágio em Desenvolvimento Web *(início da jornada)*
 
 > Empresa de tecnologia focada em soluções omnichannel, UX e automação de processos.
